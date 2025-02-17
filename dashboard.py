@@ -374,7 +374,7 @@ if menu == 'INDICADORES':
         
         #df_req
 
-# Verifica se a planta selecionada é "Carajás"
+# Verifica se a planta selecionada é "C"
 if menu == 'DISPONIBILIDADE':
         
     # Leitura do arquivo Excel
